@@ -17,7 +17,7 @@ class Post
   end 
   
   def author_name 
-    self.all.author
+    self.author
   end
   
   
