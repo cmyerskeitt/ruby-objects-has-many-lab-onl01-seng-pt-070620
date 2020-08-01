@@ -17,7 +17,7 @@ class Post
   end 
   
   def author_name 
-    self.author.flatten
+    self.author
   end
   
   
