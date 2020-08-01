@@ -20,4 +20,6 @@ class Post
     self.author
   end
   
+  
+  
 end 
